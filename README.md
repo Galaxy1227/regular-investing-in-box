@@ -16,6 +16,8 @@ Translations in various languages available in the folder *[Translations](Transl
 
 Chinese audiobook available in the folder [audiobooks](audiobooks/).
 
+The third edition of the book was published online: https://onregularinvesting.com, Chinese and English available. Files are in the folder ```./docs```
+
 -----
 
 
@@ -35,6 +37,8 @@ https://b.watch
 -----
 
 **注**：有声版在 [audiobook](audiobook/) 目录之下
+
+**2019.12.25**: 此书第二版已由果麦文化印刷发行，[当当购买链接](http://product.dangdang.com/28493272.html?_utm_ad_id=83757) ｜ [京东购买链接](https://item.jd.com/12605781.html)
 
 ---
 
